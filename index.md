@@ -1,4 +1,4 @@
-﻿# Project Name/Title Goes Here
+﻿# Raspberry Pi Retrogaming emulation station
 My project is a Raspberry Pi Retogaming emunlation station. I in corperates many old fanshioned systems like the Super nintendo, Nintendo 64, and Atari 2600.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
